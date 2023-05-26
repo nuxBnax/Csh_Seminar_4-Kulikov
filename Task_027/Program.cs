@@ -21,4 +21,4 @@ while ((num / n) > 0)
     n *= 10;
 }
 
-Console.WriteLine(result);
+Console.WriteLine("SUM of a numbers in this number is: " + result);
